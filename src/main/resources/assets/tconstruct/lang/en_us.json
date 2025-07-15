@@ -3273,6 +3273,7 @@
   "subtitles.tconstruct.longbow.charge": "Longbow pulls back",
   "subtitles.tconstruct.crystalshot": "Arrow hits",
   "subtitles.tconstruct.bonk": "Tool bonks",
+  "subtitles.tconstruct.spit": "Fluid spits",
 
   "subtitles.tconstruct.necrotic_heal": "Life drained",
   "subtitles.tconstruct.extra_jump": "Entity swooshed",
@@ -3435,6 +3436,7 @@
   "jei.tconstruct.part_builder.cost": "Cost: %s",
 
   "jei.tconstruct.modifier_worktable.title": "Modifier Worktable",
+  "jei.tconstruct.tinker_station.too_large": "Recipe is too large to craft in this station.",
 
 
   "_comment": "Tool Advancements",
